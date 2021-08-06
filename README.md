@@ -46,9 +46,9 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true) -->
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+<!-- Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777) -->
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
