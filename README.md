@@ -9,7 +9,11 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
  
  🌱 I’m currently learning Redux and next js.
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://silly-keller-0ab44d.netlify.app)**
+
+- 📫 How to reach me **mahabu998@gmail.com**
  
  🤔 I’m looking for help with [Github](https://github.com/mahabub998).
  
