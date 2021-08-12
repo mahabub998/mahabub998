@@ -62,4 +62,12 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [website]: https://silly-keller-0ab44d.netlify.app
 [linkedin]: https://www.linkedin.com/in/mahbub-alam-507287203/
+## :link: Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/mahbub-alam-507287203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/mahbubalam.shohag.92"><img src="https://img.icons8.com/fluent/50/000000/facebook-new.png"/></a>
+<a href = "https://web.telegram.org/k/"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
+
+</p>
 
